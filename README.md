@@ -25,3 +25,6 @@ Libraries: pandas, seaborn, matplotlib, gseapy (Enrichr), scikit-learn, lifeline
 ![Volcano Plot](Gene%20Expression%20Analysis%20Pipeline/figures/Volcano%20Plot%20-%20Leukemia%20vs%20Normal.png)
 
 ![Heatmap](Gene%20Expression%20Analysis%20Pipeline/figures/Heatmap%20-%20Top%20100%20Significant%20Genes.png)
+
+![GO_Down](Gene%20Expression%20Analysis%20Pipeline/figures/GO%20Biological%20Processes%20(Down-Regulated%20in%20Leukemia).png)
+
